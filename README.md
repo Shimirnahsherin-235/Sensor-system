@@ -8,7 +8,7 @@ This project showcases skills in **IoT systems**, **data visualization**, **Pyth
 
 ---
 
-## ⚙️ Features
+## ⚙️Features
 - 🧩 Real-time simulation of sensor data using **C++**
 - 💾 Data logging in **CSV format**
 - 📊 Visualization of trends using **Python (Matplotlib, Pandas)**
