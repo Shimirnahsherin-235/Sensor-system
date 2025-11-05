@@ -1,3 +1,15 @@
+# Force GitHub Linguist to treat this project as primarily C++
 *.cpp linguist-detectable=true
+*.h linguist-detectable=true
+*.hpp linguist-detectable=true
 *.py linguist-detectable=true
+
+# Tell GitHub that the main language is C++
 *.cpp linguist-language=C++
+
+# Optional: ignore auto-generated files from being counted
+*.csv linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+
